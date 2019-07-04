@@ -1,0 +1,2 @@
+# Console-first
+init
